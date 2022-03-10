@@ -2,7 +2,7 @@
 
 ## @showdialog
  
-Fait défiler ton nom avec les lumières DEL sur le Micro:Bit!
+Fais 1234 défiler ton nom avec les lumières DEL sur le Micro:Bit!
  
 ![RECIT](https://drive.google.com/uc?id=1AYOnOTuePsS1n7_WV3uRIGQeXu8lIP1F)
  
