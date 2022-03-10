@@ -11,8 +11,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "nom.md",
-        "_locales/fr/nom.md"
+        "nom.md"
     ],
     "testFiles": [
         "test.ts"
