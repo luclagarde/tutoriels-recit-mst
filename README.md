@@ -1,6 +1,10 @@
 
 > Ouvrir cette page à [https://luclagarde.github.io/tutoriels-recit-mst/](https://luclagarde.github.io/tutoriels-recit-mst/)
 
+## Tutoriels
+[Affiche ton nom](https://makecode.microbit.org/#tutorial:github:luclagarde/tutoriels-recit-mst/nom)
+
+
 ## Utiliser comme extension
 
 Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
